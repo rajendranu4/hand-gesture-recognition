@@ -1,7 +1,7 @@
-BASE_PATH = "C:\\Users\\rajen\\Documents\\Udhay\\MS Docs\\Classes\\Term3_F2021\\Research Methodology\\Datasets\\Leap\\"
+BASE_PATH = "data\\"
 TRAIN_FOLDER = "\\Train"
 TEST_FOLDER = "\\Test"
-TARGET_FOLDER = "C:\\Users\\rajen\\Documents\\Udhay\\MS Docs\\Classes\\Term3_F2021\\Research Methodology\\Datasets\\Leap"
+TARGET_FOLDER = "data"
 MODEL_NAME = "\\trained_model.pkl"
 
 INPUT_FEATURES_ARRAY = "X"
@@ -15,7 +15,7 @@ VALIDATE_TRAINING = True
 
 TEST_SINGLE = False
 TEST_IMG_LABEL = 5
-TEST_IMG = 'C:\\Users\\rajen\\Documents\\Udhay\\MS Docs\\Classes\\Term3_F2021\\Research Methodology\\Datasets\\8Signs\\Dataset\\Test_Single\\greyscale5.jpg'
+TEST_IMG = 'data\\greyscale5.jpg'
 
 '''LABEL_TO_IDX = {
         'L': 0,
